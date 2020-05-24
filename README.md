@@ -19,7 +19,7 @@ Our array will have 20000 objects inside it.
 In this program I will perform an object search through a linear search and then I will use binary search.
 Using python's time() function, we might notice that binary search is faster and more efficient than a standard search.
 In our example we will save thousandths of a second but imagining to work on a complex code 
-or where the search is repeated multiple times, we can easily guess how, thanks to binary search, we can save a lot of time making our program more efficient.
+or where the search is repeated multiple times, we can easily guess how, thanks to the binary search, we can save a lot of time making our program more efficient.
   
  Credits:
  
